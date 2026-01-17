@@ -1,6 +1,6 @@
-## Washington-Crimes-Overview
+# Washington-Crimes-Overview
 
-# Table of Contents
+## Table of Contents
 
 1. **Project Overview**
 2. **Problem Statement**
@@ -18,32 +18,32 @@
 14. **How to Use This Project**
 15. **About the Author**
 
-# Project Overview
+## Project Overview
 
-#Problem Statement
+## Problem Statement
 
-#Dataset Description
+## Dataset Description
 
-#Objectives**
+## Objectives
 
-#Tools Used**
+## Tools Used
 
-#Data Cleaning Process**
+## Data Cleaning Process
 
-#Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
-#Visualizations / Dashboard
+## Visualizations / Dashboard
 
-#Key Insights
+## Key Insights
 
-#Conclusion
+## Conclusion
 
-#Limitations
+## Limitations
 
-#Recommendations
+## Recommendations
 
-#Project Files
+## Project Files
 
-#How to Use This Project
+## How to Use This Project
 
-#About the Author
+## About the Author
