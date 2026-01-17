@@ -46,4 +46,6 @@
 
 ## How to Use This Project
 
-## About the Author
+## Contact Information
+LinkedIn: https://www.linkedin.com/in/estheraderonke
+Email: aladeloyeesther616@gmail.com
