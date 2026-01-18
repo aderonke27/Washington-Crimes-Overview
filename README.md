@@ -9,11 +9,11 @@
 6. [Data Cleaning Process](#data-cleaning-process)
 7. [Data Analysis](#data-analysis)
 8. [Dashboard](#dashboard)
-9. [Key Insights](#keyinsights)
-10. **Conclusion**
-11. **Limitations**
-12. **Recommendations**
-13. **Project Files**
+9. [Key Insights](#key-insights)
+10. [Conclusion](#conclusion)
+11. [Limitations](#limitations)
+12. [Recommendations](#recommendations)
+13. [Project Files](#project-files)
 14. [How to Use This Project](#how-to-use-this-project)
 15. [Contact Information](#contact-information)
 
