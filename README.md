@@ -1,8 +1,7 @@
 # Washington-Crimes-Overview
 
 ## Table of Contents
-2. [Project Description](#project-description)
-1. .[Project Overview](#project-overview)
+1. [Project Overview](#project-overview)
 2. **Problem Statement**
 3. **Dataset Description**
 4. **Objectives**
