@@ -33,6 +33,7 @@ Microsoft Excel
 ## Data Analysis
 
 ## Dashboard
+<img width="1564" height="795" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/bf2fa2d8-a98c-4415-86b0-1b03ca6c0a57" />
 
 ## Key Insights
 The analysis revealed several important findings:
