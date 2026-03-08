@@ -36,16 +36,11 @@ Microsoft Excel
 
 ## Key Insights
 The analysis revealed several important findings:
-
-•Other Theft is the most reported crime with 1,610 cases.
-
-•The 3100 – 3299 blocks of 14th Street Northwest emerged as the primary crime hotspot.
-
-•Evening and daytime shifts record the highest crime occurrences.
-
-•Property crimes (3,446) significantly outnumber violent crimes (420).
-
-•Fridays have the highest number of crime reports with 602 cases.
+*Other Theft is the most reported crime with 1,610 cases.
+*The 3100 – 3299 blocks of 14th Street Northwest emerged as the primary crime hotspot.
+*Evening and daytime shifts record the highest crime occurrences.
+*Property crimes (3,446) significantly outnumber violent crimes (420).
+*Fridays have the highest number of crime reports with 602 cases.
 
 ## Conclusion
 
