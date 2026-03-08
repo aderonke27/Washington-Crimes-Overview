@@ -5,24 +5,24 @@
 2. [Problem Statement](#problem-statement)
 3. [Objectives](#objectives)
 4. [Dataset Description](#dataset-description)
-6. [Tools Used](#tools-used)
-7. [Data Cleaning Process](#data-cleaning-process)
-8. [Data Analysis](#data-analysis)
-9. [Dashboard](#dashboard)
-10. [Key Insights](#key-insights)
-11. [Recommendations](#recommendations)
-13. [Limitations](#limitations)
-14. [Conclusion](#conclusion)
-15. [Project Files](#project-files)
-16. [How to Use This Project](#how-to-use-this-project)
-17. [Contact Information](#contact-information)
+5. [Tools Used](#tools-used)
+6. [Data Cleaning Process](#data-cleaning-process)
+7. [Data Analysis](#data-analysis)
+8. [Dashboard](#dashboard)
+9. [Key Insights](#key-insights)
+10. [Recommendations](#recommendations)
+11. [Limitations](#limitations)
+12. [Conclusion](#conclusion)
+13. [Project Files](#project-files)
+14. [Contact Information](#contact-information)
 
 ## Project Overview
+Crime incidents continue to pose threats for urban safety and effective law enforcement resource allocation. This project focuses on analyzing reported crime data to identify patterns, trends, and key areas of concern in Washington. Using Microsoft Excel, a crime analysis dashboard was created to transform raw crime data into insights that can help better understand the distribution of crimes across different locations, time periods, and offense categories.
+The analysis was conducted to address the need for clearer visibility into crime patterns within the dataset, which recorded 3,866 reported incidents over a two-month period. By examining crime types, districts, shifts, days of the week, and specific locations, the project aims to highlight crime hotspots and identify when crimes are most likely to occur. Understanding these patterns can support data-driven decision-making for crime prevention and resource allocation.
+The dashboard provides a visual summary of crime trends, including crime distribution by offense group, crime by district, crime by shift, monthly crime trends, and location hotspots. Through these visualizations, the dashboard enables stakeholders to quickly identify high-risk areas, dominant crime types, and peak crime periods, ultimately supporting strategies aimed at improving public safety and reducing crime incidents.
 
 ## Problem Statement
 Despite the availability of crime data, there is limited clarity on where crimes occur most frequently, when they are most likely to happen, and which crime types dominate in Washington. With 3,866 reported incidents within two months, authorities and stakeholders need a clear understanding of crime patterns across locations, time periods, and offense categories to support effective resource allocation and crime prevention strategies.
-
-## Dataset Description
 
 ## Objectives
 * Analyze the overall crime volume to understand the scale of reported crimes within the study period.
@@ -33,6 +33,8 @@ Despite the availability of crime data, there is limited clarity on where crimes
 * Evaluate monthly crime trends to observe whether crime rates are increasing or decreasing over time.
 * Assess crime occurrence by day of the week to determine the days with the highest and lowest crime activity.
 * Identify districts with the highest crime levels to highlight areas that may require targeted intervention.
+
+## Dataset Description
 
 ## Tools Used
 Microsoft Excel
@@ -54,16 +56,6 @@ Microsoft Excel
 * January recorded 2,033 crimes while February recorded 1,833, showing a small deline in reported incidents.
 * District 5 (773 cases) reports the highest crime rate among all districts, making it the most affected district.
 
-## Limitations
-* Limited time frame of the data: The analysis only covers two months (January and February), which may not fully represent long-term crime trends or seasonal variations.
-* Possible underreporting of crimes: The dataset only includes reported crimes, meaning incidents that were not reported to authorities are not captured in the analysis.
-* Lack of demographic and socio-economic data: The dataset does not include information such as population density, income levels, or age groups, which could help explain underlying causes of crime patterns.
-* Absence of detailed location context: Although the analysis identifies hotspots, it does not provide deeper context such as business activity, nightlife areas, or residential density that may influence crime rates.
-* Limited crime categorization: Some crimes are grouped under broad categories like “Other Theft,” which makes it difficult to understand the specific types of theft occurring.
-* Data quality issues: The presence of “Unknown” districts suggests some records may have incomplete or missing location data.
-* No information on law enforcement response: The dataset does not include data on police response times, arrests, or case outcomes, which limits deeper evaluation of crime control effectiveness.
-* No historical comparison: Without data from previous years, it is difficult to determine whether crime levels are improving, worsening, or remaining stable.
-
 ## Recommendations
 * Increase security and surveillance in identified hotspots, particularly around the 3100–3299 block of 14th Street Northwest, through increased police patrols, CCTV installation, and improved street lighting to deter criminal activity.
 * Prioritize theft prevention strategies since Other Theft, Theft from Auto, and Auto Theft account for the majority of crimes. Public awareness campaigns, vehicle security initiatives, and stronger monitoring of parking areas can help reduce these incidents.
@@ -75,9 +67,19 @@ Microsoft Excel
 * Develop data-driven decision-making systems, such as crime dashboards and predictive analytics, to help law enforcement agencies continuously track crime patterns and respond proactively.
 * Promote situational crime prevention strategies, such as better urban planning, improved lighting, controlled access to vulnerable areas, and public awareness programs to reduce opportunities for property crimes.
 
-## Project Files
+## Limitations
+* Limited time frame of the data: The analysis only covers two months (January and February), which may not fully represent long-term crime trends or seasonal variations.
+* Possible underreporting of crimes: The dataset only includes reported crimes, meaning incidents that were not reported to authorities are not captured in the analysis.
+* Lack of demographic and socio-economic data: The dataset does not include information such as population density, income levels, or age groups, which could help explain underlying causes of crime patterns.
+* Absence of detailed location context: Although the analysis identifies hotspots, it does not provide deeper context such as business activity, nightlife areas, or residential density that may influence crime rates.
+* Limited crime categorization: Some crimes are grouped under broad categories like “Other Theft,” which makes it difficult to understand the specific types of theft occurring.
+* Data quality issues: The presence of “Unknown” districts suggests some records may have incomplete or missing location data.
+* No information on law enforcement response: The dataset does not include data on police response times, arrests, or case outcomes, which limits deeper evaluation of crime control effectiveness.
+* No historical comparison: Without data from previous years, it is difficult to determine whether crime levels are improving, worsening, or remaining stable.
 
-## How to Use This Project
+## Conclusion
+
+## Project Files
 
 ## Contact Information
 LinkedIn: https://www.linkedin.com/in/estheraderonke
