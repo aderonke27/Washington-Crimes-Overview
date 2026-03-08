@@ -18,8 +18,7 @@
 
 ## Project Overview
 Crime incidents continue to pose threats for urban safety and effective law enforcement resource allocation. This project focuses on analyzing reported crime data to identify patterns, trends, and key areas of concern in Washington. Using Microsoft Excel, a crime analysis dashboard was created to transform raw crime data into insights that can help better understand the distribution of crimes across different locations, time periods, and offense categories.
-
-The analysis was conducted to address the need for clearer visibility into crime patterns within the dataset, which recorded 3,866 reported incidents over a two-month period. By examining crime types, districts, shifts, days of the week, and specific locations, the project aims to highlight crime hotspots and identify when crimes are most likely to occur. Understanding these patterns can support data-driven decision-making for crime prevention and resource allocation.
+ The analysis was conducted to address the need for clearer visibility into crime patterns within the dataset, which recorded 3,866 reported incidents over a two-month period. By examining crime types, districts, shifts, days of the week, and specific locations, the project aims to highlight crime hotspots and identify when crimes are most likely to occur. Understanding these patterns can support data-driven decision-making for crime prevention and resource allocation.
 
 The dashboard provides a visual summary of crime trends, including crime distribution by offense group, crime by district, crime by shift, monthly crime trends, and location hotspots. Through these visualizations, the dashboard enables stakeholders to quickly identify high-risk areas, dominant crime types, and peak crime periods, ultimately supporting strategies aimed at improving public safety and reducing crime incidents.
 
