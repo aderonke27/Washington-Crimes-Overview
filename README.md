@@ -10,12 +10,11 @@
 7. [Data Analysis](#data-analysis)
 8. [Dashboard](#dashboard)
 9. [Key Insights](#key-insights)
-10. [Conclusion](#conclusion)
-11. [Limitations](#limitations)
-12. [Recommendations](#recommendations)
-13. [Project Files](#project-files)
-14. [How to Use This Project](#how-to-use-this-project)
-15. [Contact Information](#contact-information)
+10. [Limitations](#limitations)
+11. [Recommendations](#recommendations)
+12. [Project Files](#project-files)
+13. [How to Use This Project](#how-to-use-this-project)
+14. [Contact Information](#contact-information)
 
 ## Project Overview
 
@@ -54,14 +53,28 @@ Microsoft Excel
 * January recorded 2,033 crimes while February recorded 1,833, showing a small deline in reported incidents.
 * District 5 (773 cases) reports the highest crime rate among all districts, making it the most affected district.
 
-## Conclusion
-
 ## Limitations
+* Limited time frame of the data: The analysis only covers two months (January and February), which may not fully represent long-term crime trends or seasonal variations.
+* Possible underreporting of crimes: The dataset only includes reported crimes, meaning incidents that were not reported to authorities are not captured in the analysis.
+* Lack of demographic and socio-economic data: The dataset does not include information such as population density, income levels, or age groups, which could help explain underlying causes of crime patterns.
+* Absence of detailed location context: Although the analysis identifies hotspots, it does not provide deeper context such as business activity, nightlife areas, or residential density that may influence crime rates.
+* Limited crime categorization: Some crimes are grouped under broad categories like “Other Theft,” which makes it difficult to understand the specific types of theft occurring.
+* Data quality issues: The presence of “Unknown” districts suggests some records may have incomplete or missing location data.
+* No information on law enforcement response: The dataset does not include data on police response times, arrests, or case outcomes, which limits deeper evaluation of crime control effectiveness.
+* No historical comparison: Without data from previous years, it is difficult to determine whether crime levels are improving, worsening, or remaining stable.
 
 ## Recommendations
+* Increase security and surveillance in identified hotspots, particularly around the 3100–3299 block of 14th Street Northwest, through increased police patrols, CCTV installation, and improved street lighting to deter criminal activity.
+* Prioritize theft prevention strategies since Other Theft, Theft from Auto, and Auto Theft account for the majority of crimes. Public awareness campaigns, vehicle security initiatives, and stronger monitoring of parking areas can help reduce these incidents.
+* Allocate more law enforcement resources during evening hours, as the evening shift records the highest number of crimes. Strategic patrol scheduling can help reduce crime during peak periods.
+* Implement targeted policing in high-crime districts, particularly District 5, District 3, and District 2, which report the highest crime volumes. This may include community policing and focused patrol operations.
+* Strengthen crime prevention measures toward the end of the week, especially on Fridays, when crime occurrences peak. Increasing patrol visibility during these periods may deter potential offenders.
+* Enhance community engagement programs in high-crime areas to encourage residents to report suspicious activities and collaborate with law enforcement to improve neighborhood safety.
+* Monitor and evaluate monthly crime trends regularly to determine whether implemented crime reduction strategies are effective and to adjust interventions where necessary.
+* Develop data-driven decision-making systems, such as crime dashboards and predictive analytics, to help law enforcement agencies continuously track crime patterns and respond proactively.
+* Promote situational crime prevention strategies, such as better urban planning, improved lighting, controlled access to vulnerable areas, and public awareness programs to reduce opportunities for property crimes.
 
 ## Project Files
-
 
 ## How to Use This Project
 
