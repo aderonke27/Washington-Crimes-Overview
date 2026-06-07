@@ -107,7 +107,7 @@ This analysis of Washington DC crime data revealed clear patterns in the type, l
 The insights from this analysis provide a data-driven foundation for law enforcement agencies, community organisations, and city planners to make more targeted decisions around patrol deployment, public safety campaigns, and community investment — ultimately supporting a safer Washington DC.
 
 ## Project Files
-[Veiw main Excel Workbook](./WashingtonCrimesOverveiw.xlsx)
+[Veiw main Excel Workbook](./Washington_Crimes_Overveiw.xlsx)
 
 The Excel workbook contains the raw dataset, analysis sheet, and the dashboard
 
