@@ -55,7 +55,7 @@ Before analysis, the dataset was reviewed and prepared to ensure consistency and
 * Date and time formatting — Report dates and start/end times were stored in mixed formats and were standardised to ensure accurate time-based filtering and analysis
 * Column labelling — Several fields were stored under generic names (Column1, Column2, Column3 etc.) and were reviewed and renamed for clarity during analysis
 * Data type validation — Numerical and date fields were verified and formatted correctly for use in PivotTables
-* Missing values** — Fields such as END_DATE, BID, and NEIGHBORHOOD_CLUSTER contained blank entries which were reviewed and handled appropriately without distorting the analysis
+* Missing values — Fields such as END_DATE, BID, and NEIGHBORHOOD_CLUSTER contained blank entries which were reviewed and handled appropriately without distorting the analysis
 * Duplicate checks — The dataset was screened for duplicate CCN (case number) entries to ensure each record represented a unique incident
 * Offense type standardisation — Offense labels were reviewed for consistency across the offense-text, offensekey, and Offense types fields to ensure accurate grouping in the analysis
 
